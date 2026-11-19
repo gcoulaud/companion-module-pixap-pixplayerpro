@@ -1,5 +1,5 @@
 {
-	"name": "pixap-pixplayer",
+	"name": "pixap-pixplayerpro",
 	"version": "1.0.0",
 	"main": "src/main.js",
 	"type": "module",
@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-pixap-pixplayer.git"
+		"url": "git+https://github.com/bitfocus/companion-module-pixap-pixplayerpro.git"
 	},
 	"engines": {
 		"node": "^22.20"
