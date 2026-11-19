@@ -4,7 +4,7 @@
 	"name": "pixap-pixplayer",
 	"shortname": "pixplayer",
 	"description": "Controls piXplayer Pro (piXap) cue lists over its WebSocket remote",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-pixap-pixplayer.git",
 	"bugs": "https://github.com/bitfocus/companion-module-pixap-pixplayer/issues",

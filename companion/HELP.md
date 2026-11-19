@@ -12,7 +12,7 @@ GO (standby cue), GO cue N, standby cue N, play, pause, stop, jump to N seconds 
 
 ### Feedbacks
 
-Playing / paused / stopped, cue N on air, cue N in standby, connected.
+Playing / paused / stopped, cue N on air (heartbeat, or steady red), cue N on air (dark, under the heartbeat), cue N in standby, test pattern, test tone, connected.
 
 ### Variables
 
