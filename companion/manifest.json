@@ -1,0 +1,22 @@
+{
+	"$schema": "../node_modules/@companion-module/base/assets/manifest.schema.json",
+	"id": "pixap-pixplayer",
+	"name": "pixap-pixplayer",
+	"shortname": "pixplayer",
+	"description": "Controls piXplayer Pro (piXap) cue lists over its WebSocket remote",
+	"version": "0.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-pixap-pixplayer.git",
+	"bugs": "https://github.com/bitfocus/companion-module-pixap-pixplayer/issues",
+	"maintainers": [{ "name": "Guillaume Coulaud", "email": "gcoulaud@pixap.fr" }],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../src/main.js"
+	},
+	"manufacturer": "piXap",
+	"products": ["piXplayer Pro"],
+	"keywords": ["video", "playback", "cue", "media server"]
+}
